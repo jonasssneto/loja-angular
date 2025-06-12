@@ -3,6 +3,13 @@
 Uma loja de produtos com Angular, os produtos são aleatórios, a cada vez que a página é recarregada, novos produtos são gerados,
 as imagens são aleatórias da API do [picsum.photos](https://picsum.photos/).
 
+## Grupo
+- Jonas Nogueira Neto
+- Christyan Fernandes
+- Anna Caronlina
+- Lucas Dombrowski
+- Gabriel Teixeira
+
 ## Instalação
 1. Clone o repositório:
    ```bash
