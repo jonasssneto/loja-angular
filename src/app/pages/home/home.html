@@ -1,1 +1,7 @@
-<p>home works!</p>
+<div class="grid-container">
+    <div class="product-card" *ngFor="let product of products" (click)="showDetails(product)">
+        <img src="{{ product.imageUrl }}" alt="{{ product.name }}" class="product-image" />
+        <h3>{{ product.name }}</h3>
+        <p>R$ {{ product.price }}</p>
+    </div>
+</div>

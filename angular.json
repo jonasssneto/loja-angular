@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "cartao-fidelidade": {
+    "shopping": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -53,10 +53,10 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "cartao-fidelidade:build:production"
+              "buildTarget": "shopping:build:production"
             },
             "development": {
-              "buildTarget": "cartao-fidelidade:build:development"
+              "buildTarget": "shopping:build:development"
             }
           },
           "defaultConfiguration": "development"
