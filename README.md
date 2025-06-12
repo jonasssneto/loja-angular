@@ -3,6 +3,9 @@
 Uma loja de produtos com Angular, os produtos são aleatórios, a cada vez que a página é recarregada, novos produtos são gerados,
 as imagens são aleatórias da API do [picsum.photos](https://picsum.photos/).
 
+## Demonstração
+Para ver a aplicação em funcionamento, acesse o seguinte link: [Loja Angular](https://joanasnogueira.github.io/loja-angular/)
+
 ## Grupo
 - Jonas Nogueira Neto
 - Christyan Fernandes
